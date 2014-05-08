@@ -1,3 +1,0 @@
-CirnoCees-MacBook-Pro:HelloOs Cee$ /usr/local/Cellar/nasm/2.11.02/bin/nasm  -f macho32 -o boot.o boot.asm
-CirnoCees-MacBook-Pro:HelloOs Cee$ gcc -m32 chap1.c boot.o
-CirnoCees-MacBook-Pro:HelloOs Cee$ /Users/Cee/Developer/OS/chap1/HelloOs/a.out 
